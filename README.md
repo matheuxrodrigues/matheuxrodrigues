@@ -1,6 +1,6 @@
 <div align="center">
 
-# $\color{#0096FF}{\textsf{Oi, eu sou o Matheus}}$ 👋
+# $\color{#0044DD}{\textbf{\textsf{Oi, eu sou o Matheus}}}$
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
@@ -8,44 +8,54 @@
 
 ---
 
-## $\color{#0096FF}{\textsf{SOBRE MIM}}$
+## $\color{#0044DD}{\textbf{\textsf{SOBRE MIM}}}$
 
 Estudante de tecnologia, com interesse em desenvolvimento de software, automação e aprendizado contínuo em programação.
 
 ---
 
-## $\color{#0096FF}{\textsf{HABILIDADES}}$
+## $\color{#0044DD}{\textbf{\textsf{HABILIDADES}}}$
 
 <div align="center">
 
 **LINGUAGENS**
 
+<hr/>
+
 <img src="https://skillicons.dev/icons?i=java" />
 
-<br/>
+<br/><br/>
 
 **BANCO DE DADOS**
 
+<hr/>
+
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<br/>
+<br/><br/>
 
 **AUTOMAÇÃO**
+
+<hr/>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
-<br/>
+<br/><br/>
 
 **INFRA & DEPLOY**
+
+<hr/>
 
 <img src="https://skillicons.dev/icons?i=docker,git" />
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-<br/>
+<br/><br/>
 
 **IDE**
+
+<hr/>
 
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
@@ -53,7 +63,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ---
 
-## $\color{#0096FF}{\textsf{INTELIGÊNCIA ARTIFICIAL}}$
+## $\color{#0044DD}{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}$
 
 <div align="center">
 
@@ -64,7 +74,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ---
 
-## $\color{#0096FF}{\textsf{PROGRAMAS}}$
+## $\color{#0044DD}{\textbf{\textsf{PROGRAMAS}}}$
 
 ### Oracle One Education (ONE) — Agentes de Inteligência Artificial
 
@@ -77,7 +87,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0096FF}{\textsf{ESTATÍSTICAS}}$
+## $\color{#0044DD}{\textbf{\textsf{ESTATÍSTICAS}}}$
 
 <div align="center">
 
@@ -91,7 +101,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0096FF}{\textsf{O QUE ESTOU ESTUDANDO AGORA}}$
+## $\color{#0044DD}{\textbf{\textsf{O QUE ESTOU ESTUDANDO AGORA}}}$
 
 ```text
 Java POO        ████████████░░░░  em andamento
@@ -102,16 +112,10 @@ Docker          ████░░░░░░░░░░░░  iniciando
 
 ---
 
-## $\color{#0096FF}{\textsf{CONTATO}}$
+## $\color{#0044DD}{\textbf{\textsf{CONTATO}}}$
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuxrodrigues)
 
-</div>
-
----
-
-<div align="center">
-  <i>"Não espero ter tudo pronto pra começar — começo pra ir ficando pronto."</i>
 </div>
