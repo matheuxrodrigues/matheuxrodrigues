@@ -1,6 +1,6 @@
 <div align="center">
 
-# $\color{#0044DD}{\pmb{\textbf{\textsf{Oi, eu sou o Matheus}}}}$
+# $\color{#0044DD}{\textbf{\textsf{Oi, eu sou o Matheus}}}$
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
@@ -8,62 +8,70 @@
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{SOBRE MIM}}}}$
+## $\color{#0044DD}{\textbf{\textsf{SOBRE MIM}}}$
 
 Estudante de tecnologia, com interesse em desenvolvimento de software, automação e aprendizado contínuo em programação.
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{HABILIDADES}}}}$
+## $\color{#0044DD}{\textbf{\textsf{HABILIDADES}}}$
 
-<div align="center">
+<p align="center"><b>LINGUAGENS</b></p>
 
-**LINGUAGENS**
+<hr style="height:1px;border:none;background-color:#555;"/>
 
-<hr/>
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<br/>
-
-**BANCO DE DADOS**
-
-<hr/>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
 <br/>
 
-**AUTOMAÇÃO**
+<p align="center"><b>BANCO DE DADOS</b></p>
 
-<hr/>
+<hr style="height:1px;border:none;background-color:#555;"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<br/>
+
+<p align="center"><b>AUTOMAÇÃO</b></p>
+
+<hr style="height:1px;border:none;background-color:#555;"/>
+
+<p align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
+</p>
+
 <br/>
 
-**INFRA & DEPLOY**
+<p align="center"><b>INFRA & DEPLOY</b></p>
 
-<hr/>
+<hr style="height:1px;border:none;background-color:#555;"/>
 
-<img src="https://skillicons.dev/icons?i=docker,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" />
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+</p>
 
 <br/>
 
-**IDE**
+<p align="center"><b>IDE</b></p>
 
-<hr/>
+<hr style="height:1px;border:none;background-color:#555;"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}}$
+## $\color{#0044DD}{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}$
 
 <div align="center">
 
@@ -74,7 +82,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{PROGRAMAS}}}}$
+## $\color{#0044DD}{\textbf{\textsf{PROGRAMAS}}}$
 
 ### Oracle One Education (ONE) — Agentes de Inteligência Artificial
 
@@ -87,7 +95,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{ESTATÍSTICAS}}}}$
+## $\color{#0044DD}{\textbf{\textsf{ESTATÍSTICAS}}}$
 
 <div align="center">
 
@@ -101,7 +109,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{O QUE ESTOU ESTUDANDO AGORA}}}}$
+## $\color{#0044DD}{\textbf{\textsf{O QUE ESTOU ESTUDANDO AGORA}}}$
 
 ```text
 Java POO        ████████████░░░░  em andamento
@@ -112,7 +120,7 @@ Docker          ████░░░░░░░░░░░░  iniciando
 
 ---
 
-## $\color{#0044DD}{\pmb{\textbf{\textsf{CONTATO}}}}$
+## $\color{#0044DD}{\textbf{\textsf{CONTATO}}}$
 
 <div align="center">
 
