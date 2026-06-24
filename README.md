@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou o Matheus 👋
+# $\color{#58A6FF}{\textsf{Oi, eu sou o Matheus}}$ 👋
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
@@ -8,39 +8,71 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## $\color{#58A6FF}{\textsf{SOBRE MIM}}$
 
 Estudante de tecnologia, com interesse em desenvolvimento de software, automação e aprendizado contínuo em programação.
 
 ---
 
-## 🛠️ O que uso
+## $\color{#58A6FF}{\textsf{HABILIDADES}}$
 
-**Linguagens**
+**LINGUAGENS**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+</div>
 
-**Automação & IA**
+<br/>
+
+**BANCO DE DADOS**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+<br/>
+
+**AUTOMAÇÃO**
+
+<div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
-**Infra & Deploy**
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-**Ferramentas**
+**INFRA & DEPLOY**
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+
+  ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+</div>
+
+<br/>
+
+**IDE**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</div>
+
+<br/>
+
+**INTELIGÊNCIA ARTIFICIAL**
+
+<div align="center">
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
-## 🎓 Programas
+## $\color{#58A6FF}{\textsf{PROGRAMAS}}$
 
 ### Oracle One Education (ONE) — Agentes de Inteligência Artificial
 
@@ -53,31 +85,32 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## 📊 Meus números no GitHub
+## $\color{#58A6FF}{\textsf{ESTATÍSTICAS}}$
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxrodrigues&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxrodrigues&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxrodrigues&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxrodrigues&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matheuxrodrigues&theme=tokyonight&hide_border=true&locale=pt_BR)
+![GitHub Streak](https://streak-stats.demolab.com?user=matheuxrodrigues&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🗺️ O que estou estudando agora
+## $\color{#58A6FF}{\textsf{O QUE ESTOU ESTUDANDO AGORA}}$
 
 ```text
 Java POO        ████████████░░░░  em andamento
 MySQL           ████████████░░░░  em andamento
+WhatsApp Bot    ██░░░░░░░░░░░░░░  planejando
 Docker          ████░░░░░░░░░░░░  iniciando
 ```
 
 ---
 
-## 📬 Contato
+## $\color{#58A6FF}{\textsf{CONTATO}}$
 
 <div align="center">
 
