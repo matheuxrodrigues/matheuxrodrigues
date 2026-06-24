@@ -17,49 +17,57 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 ## $\color{#0044DD}{\textbf{\textsf{HABILIDADES}}}$
 
 <div align="center">
-
-**LINGUAGENS**
-<br/>
-<sub>──────────────────────────────────────────────────────────────────────</sub>
-<br/>
+<b>LINGUAGENS</b>
+</div>
+<hr>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=java" />
+</div>
 
-<br/><br/>
+<br/>
 
-**BANCO DE DADOS**
-<br/>
-<sub>──────────────────────────────────────────────────────────────────────</sub>
-<br/>
+<div align="center">
+<b>BANCO DE DADOS</b>
+</div>
+<hr>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
+</div>
 
-<br/><br/>
+<br/>
 
-**AUTOMAÇÃO**
-<br/>
-<sub>──────────────────────────────────────────────────────────────────────</sub>
-<br/>
+<div align="center">
+<b>AUTOMAÇÃO</b>
+</div>
+<hr>
+<div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
-<br/><br/>
+</div>
 
-**INFRA & DEPLOY**
 <br/>
-<sub>──────────────────────────────────────────────────────────────────────</sub>
-<br/>
+
+<div align="center">
+<b>INFRA & DEPLOY</b>
+</div>
+<hr>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=docker,git" />
 <br/>
+
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+</div>
 
-<br/><br/>
+<br/>
 
-**IDE**
-<br/>
-<sub>──────────────────────────────────────────────────────────────────────</sub>
-<br/>
+<div align="center">
+<b>IDE</b>
+</div>
+<hr>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
-
 </div>
 
 ---
