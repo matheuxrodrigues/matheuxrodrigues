@@ -115,7 +115,6 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 ```text
 Java POO        ████████████░░░░  em andamento
 MySQL           ████████████░░░░  em andamento
-WhatsApp Bot    ██░░░░░░░░░░░░░░  planejando
 Docker          ████░░░░░░░░░░░░  iniciando
 ```
 
