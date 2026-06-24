@@ -16,59 +16,62 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ## $\color{#0044DD}{\textbf{\textsf{HABILIDADES}}}$
 
-<p align="center"><b>LINGUAGENS</b></p>
+<div align="center">
 
----
+**LINGUAGENS**
+<br/>
+<sub>──────────────────────────────────────────────────────────────────────</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=java" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<br/><br/>
 
-<p align="center"><b>BANCO DE DADOS</b></p>
+**BANCO DE DADOS**
+<br/>
+<sub>──────────────────────────────────────────────────────────────────────</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="center"><b>AUTOMAÇÃO</b></p>
-
----
-
-<p align="center">
+**AUTOMAÇÃO**
+<br/>
+<sub>──────────────────────────────────────────────────────────────────────</sub>
+<br/>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
-</p>
+<br/><br/>
 
-<p align="center"><b>INFRA & DEPLOY</b></p>
+**INFRA & DEPLOY**
+<br/>
+<sub>──────────────────────────────────────────────────────────────────────</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git" />
+<br/>
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git" />
-  <br/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-</p>
+**IDE**
+<br/>
+<sub>──────────────────────────────────────────────────────────────────────</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea" />
 
-<p align="center"><b>IDE</b></p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea" />
-</p>
+</div>
 
 ---
 
 ## $\color{#0044DD}{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}$
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -80,20 +83,22 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolvimento de Agentes de IA, auxiliando o usuário nas suas criações, tarefas e trabalho.
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Alura-0095D9?style=for-the-badge&logoColor=white" />
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-0095D9?style=for-the-badge&logoColor=white)
 
 ---
 
 ## $\color{#0044DD}{\textbf{\textsf{ESTATÍSTICAS}}}$
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuxrodrigues&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxrodrigues&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=matheuxrodrigues&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxrodrigues&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxrodrigues&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=matheuxrodrigues&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -110,8 +115,8 @@ Docker          ████░░░░░░░░░░░░  iniciando
 
 ## $\color{#0044DD}{\textbf{\textsf{CONTATO}}}$
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheuxrodrigues">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuxrodrigues)
+
+</div>
