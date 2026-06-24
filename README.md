@@ -1,6 +1,6 @@
 <div align="center">
 
-# $\color{#0044DD}{\textbf{\textsf{Oi, eu sou o Matheus}}}$
+# $\color{#0044DD}{\pmb{\textbf{\textsf{Oi, eu sou o Matheus}}}}$
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
@@ -8,13 +8,13 @@
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{SOBRE MIM}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{SOBRE MIM}}}}$
 
 Estudante de tecnologia, com interesse em desenvolvimento de software, automação e aprendizado contínuo em programação.
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{HABILIDADES}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{HABILIDADES}}}}$
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-<br/><br/>
+<br/>
 
 **BANCO DE DADOS**
 
@@ -32,7 +32,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<br/><br/>
+<br/>
 
 **AUTOMAÇÃO**
 
@@ -41,7 +41,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere_AI-39594A?style=for-the-badge&logoColor=white)
 
-<br/><br/>
+<br/>
 
 **INFRA & DEPLOY**
 
@@ -51,7 +51,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-<br/><br/>
+<br/>
 
 **IDE**
 
@@ -63,7 +63,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{INTELIGÊNCIA ARTIFICIAL}}}}$
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Estudante de tecnologia, com interesse em desenvolvimento de software, automaç�
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{PROGRAMAS}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{PROGRAMAS}}}}$
 
 ### Oracle One Education (ONE) — Agentes de Inteligência Artificial
 
@@ -87,7 +87,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{ESTATÍSTICAS}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{ESTATÍSTICAS}}}}$
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Programa da Oracle em parceria com a Alura, gratuito, com foco em desenvolviment
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{O QUE ESTOU ESTUDANDO AGORA}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{O QUE ESTOU ESTUDANDO AGORA}}}}$
 
 ```text
 Java POO        ████████████░░░░  em andamento
@@ -112,7 +112,7 @@ Docker          ████░░░░░░░░░░░░  iniciando
 
 ---
 
-## $\color{#0044DD}{\textbf{\textsf{CONTATO}}}$
+## $\color{#0044DD}{\pmb{\textbf{\textsf{CONTATO}}}}$
 
 <div align="center">
 
