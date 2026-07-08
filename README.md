@@ -1,10 +1,11 @@
+![Profile Views](https://komarev.com/ghpvc/?username=matheuxrodrigues&color=blue)
+
 <div align="center">
 
 # $\color{#0044DD}{\textbf{\textsf{Oi, eu sou o Matheus}}}$
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
-![Profile Views](https://komarev.com/ghpvc/?username=matheus123&color=blue)
 
 </div>
 
