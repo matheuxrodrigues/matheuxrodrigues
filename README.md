@@ -4,6 +4,8 @@
 
 ### Java · n8n · IA Generativa · Aprendendo na prática
 
+![Profile Views](https://komarev.com/ghpvc/?username=matheus123&color=blue)
+
 </div>
 
 ---
