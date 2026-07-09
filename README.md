@@ -1,4 +1,4 @@
-# ☕🚀 Matheus Rodrigues
+# ☕ Matheus Rodrigues
 
 ---
 
