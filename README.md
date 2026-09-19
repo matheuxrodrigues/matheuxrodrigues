@@ -4,7 +4,7 @@
 
 **Java Backend Developer in progress.**
 
-Olá! Me chamo Matheus Rodrigues e moro no Rio de Janeiro. Sou desenvolvedor backend autodidata, atualmente aprofundando meus estudos em Java e Orientação a Objetos. Sou curioso e apaixonado por tecnologia.
+Desenvolvedor back-end em formação, unindo estudo autodidata a uma graduação em Análise e Desenvolvimento de Sistemas. Foco em Java, OOP, MySQL e Docker, avançando em Spring Boot. Aprendo construindo — cada projeto aqui é fruto disso.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuxrodrigues)
 
