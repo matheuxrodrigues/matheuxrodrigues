@@ -27,7 +27,7 @@ Desenvolvedor back-end em formação, unindo estudo autodidata a uma graduação
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/C.svg" width="42" alt="C"/>
 </p>
 
 ---
